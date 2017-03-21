@@ -1,0 +1,6 @@
+configuration:  
+  projectName: onlineShopClient
+server:
+  port: 8002
+message:
+  greeting: Hello from the online shop client configuration!
